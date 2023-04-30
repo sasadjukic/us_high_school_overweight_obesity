@@ -27,8 +27,10 @@ As always, the assets folder contains all the charts I made.
 4. West Virginia (No.1 state in HS obesity) high school healthy student weight, overweight or obesity, and obesity
 <br>
 Bonus:<br>
-5. Rise in overweight or obesity among US adults 18-65 from 2011-2021
+<br>
+5. Rise in overweight or obesity among US adults 18-65 from 2011-2021<br>
 6. Top 15 US states in overweight or obesity among adults 18-65 from 2021 and how their numbers compare to 2011 
+<br>
 
 <strong>SCREENSHOTS</strong>
 <img src="./assets/nationwide_map_high_schhol_overweight_obesity_2019.png" />
